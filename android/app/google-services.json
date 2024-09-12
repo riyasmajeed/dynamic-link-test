@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "451938534000",
+    "project_id": "footbollmatch-e1a65",
+    "storage_bucket": "footbollmatch-e1a65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451938534000:android:ac70cb9e612b7f0e64eab5",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl4OIcHZSEr01dyZJDLhcvUN3sQD3hzB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451938534000:android:885a7de0abdbdefc64eab5",
+        "android_client_info": {
+          "package_name": "com.example.assignment0navigation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl4OIcHZSEr01dyZJDLhcvUN3sQD3hzB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451938534000:android:b3f7f402d04cbf8f64eab5",
+        "android_client_info": {
+          "package_name": "com.example.batting_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl4OIcHZSEr01dyZJDLhcvUN3sQD3hzB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
